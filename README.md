@@ -37,8 +37,6 @@ Links, documentation, and credentials for all domains
 
 Frontend: React
 
-Backend: [Optional: your backend stack if any, e.g., Node.js / Firebase]
-
 Styling: CSS / Tailwind / Styled Components (depending on implementation)
 
 Version Control: Git, GitHub
